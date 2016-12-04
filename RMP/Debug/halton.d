@@ -1,3 +1,3 @@
-halton.d: ../halton.cpp ../halton.hpp
+halton.o: ../halton.cpp ../halton.hpp
 
 ../halton.hpp:
